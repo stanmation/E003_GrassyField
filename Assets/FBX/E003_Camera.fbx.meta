@@ -1,0 +1,211 @@
+fileFormatVersion: 2
+guid: 5b89d5dea0d378b4998341202a998b3d
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 3128072630909725634
+    second: Camera.001|Camera.001Action
+  - first:
+      74: -1312357070061617401
+    second: Camera.001|KPCS_C001_Standing_withBase.Back.001Action
+  - first:
+      74: -8576173767148374768
+    second: Camera.001|KPCS_C001_Standing_withBase.BackAction
+  - first:
+      74: -8711163344859904989
+    second: Camera.001|KPCS_C001_Standing_withBase.FrontAction
+  - first:
+      74: -8059978843034827791
+    second: Camera.001|KPCS_C002_Standing_withBase.Back.001Action
+  - first:
+      74: 4677208051225893740
+    second: Camera.001|KPCS_C002_Standing_withBase.Back.001Action.001
+  - first:
+      74: 7622416635718165853
+    second: Camera.001|KPCS_C002_Standing_withBase.BackAction
+  - first:
+      74: -1326073153338555510
+    second: Camera.001|KPCS_C002_Standing_withBase.Front.001Action
+  - first:
+      74: 2412341267432363972
+    second: Camera.001|KPCS_C002_Standing_withBase.Front.001Action.001
+  - first:
+      74: 7874195484786772356
+    second: Camera.001|KPCS_C002_Standing_withBase.FrontAction
+  - first:
+      74: 6365397892882895569
+    second: Camera.001|KPCS_C002_Standing_withBase.FrontAction.001
+  - first:
+      74: 1560990704090593413
+    second: Camera.001|Rock.019|Rock.002|Camera.001Action
+  - first:
+      74: -1178287904309265746
+    second: Camera.001|Rock.019|Rock.002|Rock.001Action
+  - first:
+      74: -1215410582365793406
+    second: Camera.001|Rock.019|Rock.002|Rock.004Action
+  - first:
+      74: -9141085862688972085
+    second: Camera.001|Rock.020|Rock.001|Camera.001Action
+  - first:
+      74: -2997683056771975622
+    second: Camera.001|Rock.020|Rock.001|Rock.001Action
+  - first:
+      74: 2477526227138963882
+    second: Camera.001|Rock.020|Rock.001|Rock.004Action
+  - first:
+      74: -7686555721942852135
+    second: Camera.001|Rock.021|Rock.003|Camera.001Action
+  - first:
+      74: -863490189291701591
+    second: Camera.001|Rock.021|Rock.003|Rock.001Action
+  - first:
+      74: 5719648101132585172
+    second: Camera.001|Rock.021|Rock.003|Rock.004Action
+  - first:
+      74: 6227660103656977658
+    second: Camera.001|Rock.022|Rock.004|Camera.001Action
+  - first:
+      74: -7378156211315498221
+    second: Camera.001|Rock.022|Rock.004|Rock.001Action
+  - first:
+      74: 8943514282210879074
+    second: Camera.001|Rock.022|Rock.004|Rock.004Action
+  - first:
+      74: -4335592880192913015
+    second: Camera.001|Rock.023|Rock.005|Camera.001Action
+  - first:
+      74: -651425841106964633
+    second: Camera.001|Rock.023|Rock.005|Rock.001Action
+  - first:
+      74: 3183162157826185389
+    second: Camera.001|Rock.023|Rock.005|Rock.004Action
+  - first:
+      74: -4884010557124786244
+    second: Camera.001|Rock.028|Rock.012|Camera.001Action
+  - first:
+      74: -5789678836261913024
+    second: Camera.001|Rock.028|Rock.012|Rock.001Action
+  - first:
+      74: 5344121903410359828
+    second: Camera.001|Rock.028|Rock.012|Rock.004Action
+  - first:
+      74: -4836338404765668229
+    second: Camera.001|Rock.029|Rock.013|Camera.001Action
+  - first:
+      74: -3109525727548063775
+    second: Camera.001|Rock.029|Rock.013|Rock.001Action
+  - first:
+      74: 6963868160292615165
+    second: Camera.001|Rock.029|Rock.013|Rock.004Action
+  - first:
+      74: 4634141973540875445
+    second: Camera.001|Rock.033|Rock.015|Camera.001Action
+  - first:
+      74: -4258830084991796854
+    second: Camera.001|Rock.033|Rock.015|Rock.001Action
+  - first:
+      74: -8010219023286446262
+    second: Camera.001|Rock.033|Rock.015|Rock.004Action
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
