@@ -7,18 +7,14 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: StylizedGrassDemo
+  m_Name: StylizedGrassDemo_Darker
   m_Shader: {fileID: 4800000, guid: d7dd1c3f4cba1d441a7d295a168bac0d, type: 3}
   m_ValidKeywords:
   - _ADVANCED_LIGHTING
   - _FADING
   - _NORMALMAP
   - _SCALEMAP
-  m_InvalidKeywords:
-  - _ALPHATOCOVERAGE_ON
-  - _ENVIRONMENTREFLECTIONS_ON
-  - _FADINGON_ON
-  - _SCALEMAP_ON
+  m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 0
@@ -172,7 +168,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.57894707, g: 0.8301887, b: 0, a: 1}
+    - _BaseColor: {r: 0.22347811, g: 0.509434, b: 0.22639193, a: 1}
     - _BendTint: {r: 0.8, g: 0.8, b: 0.8, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 0}
@@ -180,7 +176,7 @@ Material:
     - _FadeNear: {r: 0.25, g: 0.5, b: 0, a: 0}
     - _FadeParams: {r: 16.02564, g: 87.577354, b: 1, a: 0}
     - _HeightmapScaleInfluence: {r: 0.5, g: 1, b: 0.5, a: 0}
-    - _HueVariation: {r: 1, g: 0.93560714, b: 0.30660364, a: 0.08627451}
+    - _HueVariation: {r: 0.51591384, g: 1, b: 0, a: 0.08627451}
     - _HueVariationColor: {r: 1, g: 0.5, b: 0, a: 0.1}
     - _LODDebugColor: {r: 1, g: 1, b: 1, a: 1}
     - _NormalParams: {r: 1, g: 1, b: 0.949, a: 1}
