@@ -97,7 +97,7 @@ Material:
     - _BillboardKwToggle: 0
     - _BillboardShadowFade: 0.5
     - _Blend: 0
-    - _BumpScale: 0.5
+    - _BumpScale: 0
     - _ColorMapHeight: 0.455
     - _ColorMapStrength: 0.63
     - _Cull: 0
