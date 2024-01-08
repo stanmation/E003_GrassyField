@@ -156,7 +156,7 @@ Material:
     - _WindAmbientStrength: 0.115
     - _WindFlutter: 0.559
     - _WindGustFreq: 2.27
-    - _WindGustSpeed: 4
+    - _WindGustSpeed: 1
     - _WindGustStrength: 0.127
     - _WindGustTint: 0.27
     - _WindObjectRand: 1
