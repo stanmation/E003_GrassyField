@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: CliffStepTop
+  m_Name: CliffStepTop_GrassOnLeft
   m_Shader: {fileID: -6465566751694194690, guid: 5c1a79483d7784e41ad7d1d6891510ba,
     type: 3}
   m_ValidKeywords: []
@@ -51,7 +51,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Edge_Alpha_Visibility: 1
+    - _Edge_Alpha_Visibility: 0
     - _Grass_Opacity: 1
     - _Noise_Scale: 15
     - _QueueControl: 0
@@ -60,8 +60,8 @@ Material:
     m_Colors:
     - _Edge_Alpha_Visibility: {r: 0, g: 0, b: 0, a: 0}
     - _Grass_Tint: {r: 0.7490196, g: 0.98039216, b: 0.003921569, a: 0}
-    - _Tile_Offset: {r: 2.19, g: 0.69, b: 0, a: 0}
-    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Tile_Offset: {r: -8, g: 0.69, b: 0, a: 0}
+    - _Tiling: {r: 0.77, g: 1, b: 0, a: 0}
     - _tileOffset: {r: 0, g: 1.88, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2323530777223988611
