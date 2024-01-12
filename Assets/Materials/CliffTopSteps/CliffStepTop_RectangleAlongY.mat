@@ -57,7 +57,7 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Grass_Tint: {r: 0.53241664, g: 0.8679245, b: 0.045033824, a: 0}
+    - _Grass_Tint: {r: 0.7490196, g: 0.98039216, b: 0.003921569, a: 0}
     - _Tile_Offset: {r: 0, g: 3.09, b: 0, a: 0}
     - _Tiling: {r: 1, g: 2, b: 0, a: 0}
     - _tileOffset: {r: 0, g: 1.88, b: 0, a: 0}

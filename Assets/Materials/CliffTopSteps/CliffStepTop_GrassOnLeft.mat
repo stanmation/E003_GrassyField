@@ -51,7 +51,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Edge_Alpha_Visibility: 0
+    - _Edge_Alpha_Visibility: 0.462
     - _Grass_Opacity: 1
     - _Noise_Scale: 15
     - _QueueControl: 0
