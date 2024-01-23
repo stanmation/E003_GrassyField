@@ -20,7 +20,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Leaf_01
+  m_Name: SkinnyTreeLeaf
   m_Shader: {fileID: -6465566751694194690, guid: 957e8fd90c200184b924334cf2f7dd02,
     type: 3}
   m_ValidKeywords: []
@@ -123,8 +123,8 @@ Material:
     - _SrcBlend: 1
     - _Surface: 0
     - _UVSec: 0
-    - _Wind_Speed: 0.7
-    - _Wind_Strength: 0.2
+    - _Wind_Speed: 0.6
+    - _Wind_Strength: 0.1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:

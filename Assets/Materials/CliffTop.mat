@@ -38,6 +38,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: 7d55b38010c7fc944b61075b8099c46e, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _SampleTexture2D_745d40bc24134de290809c7257bd8aef_Texture_1:
+        m_Texture: {fileID: 2800000, guid: bc48e0b2d6407f54bae0270d6c6027e7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_d23bf3f146d2415780775795b964ea17_Texture_1:
         m_Texture: {fileID: 2800000, guid: 37e7d766b899cae4c9aef7964b54f130, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -56,7 +60,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _Alpha_Scale: 5
+    - _Blend_Scale: 10
+    - _Edge_Alpha_Visibility: 0.584
+    - _Grass_Tiling: 4
+    - _Noise_Scale: 11.01
     - _QueueControl: 0
     - _QueueOffset: 0
-    m_Colors: []
+    m_Colors:
+    - _Alpha_Offset: {r: -2.3, g: -0.39, b: 0, a: 0}
+    - _Alpha_Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Blend_Offset: {r: 0, g: 0.73, b: 0, a: 0}
+    - _Blend_Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Noise_Offset: {r: 0, g: 1.5, b: 0, a: 0}
+    - _Noise_Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
