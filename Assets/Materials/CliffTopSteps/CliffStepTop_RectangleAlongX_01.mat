@@ -51,18 +51,18 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _Edge_Alpha_Visibility: 1
+    - _Edge_Alpha_Visibility: 0.684
     - _Grass_Fullness: 0
-    - _Grass_Opacity: 0.786
-    - _Noise_Scale: 1.2
+    - _Grass_Opacity: 0.913
+    - _Noise_Scale: 1.96
     - _QueueControl: 0
     - _QueueOffset: 0
     - _test: 0
     m_Colors:
     - _Edge_Alpha_Visibility: {r: 0, g: 0, b: 0, a: 0}
-    - _Grass_Tint: {r: 0.38039216, g: 0.8862745, b: 0.17254902, a: 0}
-    - _Tile_Offset: {r: 1.24, g: 0.1, b: 0, a: 0}
-    - _Tiling: {r: 2, g: 1, b: 0, a: 0}
+    - _Grass_Tint: {r: 0.7490196, g: 0.98039216, b: 0.003921569, a: 0}
+    - _Tile_Offset: {r: 1.24, g: -0.38, b: 0, a: 0}
+    - _Tiling: {r: 1, g: 1, b: 0, a: 0}
     - _tileOffset: {r: 0, g: 1.88, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2323530777223988611
