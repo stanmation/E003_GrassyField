@@ -61,7 +61,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _Alpha_Scale: 5
-    - _Blend_Scale: 10
+    - _Blend_Scale: 1.67
     - _Edge_Alpha_Visibility: 0.584
     - _Grass_Tiling: 4
     - _Noise_Scale: 11.01
