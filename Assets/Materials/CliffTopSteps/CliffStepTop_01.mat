@@ -52,8 +52,9 @@ Material:
     m_Ints: []
     m_Floats:
     - _Edge_Alpha_Visibility: 1
-    - _Grass_Opacity: 0.887
-    - _Noise_Scale: 10.03
+    - _Grass_Fullness: 0
+    - _Grass_Opacity: 0.93
+    - _Noise_Scale: 1
     - _QueueControl: 0
     - _QueueOffset: 0
     - _test: -0.8
