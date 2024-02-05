@@ -1,5 +1,18 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-2388049570511100824
+MonoBehaviour:
+  m_ObjectHideFlags: 11
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
 --- !u!21 &2100000
 Material:
   serializedVersion: 8
@@ -7,17 +20,18 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: StylizedGrass_02
+  m_Name: DS_PineLeaf
   m_Shader: {fileID: 4800000, guid: d7dd1c3f4cba1d441a7d295a168bac0d, type: 3}
   m_ValidKeywords:
-  - _ADVANCED_LIGHTING
   - _FADING
-  - _NORMALMAP
-  - _SCALEMAP
-  m_InvalidKeywords: []
+  - _SIMPLE_LIGHTING
+  m_InvalidKeywords:
+  - _ALPHATOCOVERAGE_ON
+  - _ENVIRONMENTREFLECTIONS_ON
+  - _FADINGON_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
-  m_DoubleSidedGI: 0
+  m_DoubleSidedGI: 1
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
@@ -25,11 +39,11 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _BaseMap:
-        m_Texture: {fileID: 2800000, guid: 9409eddc62d8b50469262df5145a7984, type: 3}
+        m_Texture: {fileID: 2800000, guid: ab1f9a3b17d4b7f4d895b72c0a21dfb9, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _BumpMap:
-        m_Texture: {fileID: 2800000, guid: ae0bb3e55273f504bb0cf21b98f1fd14, type: 3}
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _DetailTex:
@@ -45,7 +59,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
-        m_Texture: {fileID: 2800000, guid: baac77a69801b814db973a5b99aa0733, type: 3}
+        m_Texture: {fileID: 2800000, guid: a129b8d401adb774f872d8415d55065c, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MetallicGlossMap:
@@ -62,10 +76,6 @@ Material:
         m_Offset: {x: 0, y: 0}
     - _SubsurfaceTex:
         m_Texture: {fileID: 0}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _TranslucencyMap:
-        m_Texture: {fileID: 2800000, guid: 8ae7a19dd7c05ad4c904853b127a609f, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _WindMap:
@@ -87,115 +97,117 @@ Material:
     m_Ints: []
     m_Floats:
     - _AdvancedLighting: 1
-    - _AlphaClip: 0
+    - _AlphaClip: 1
     - _AlphaToCoverage: 1
-    - _AngleFading: 0
-    - _BendFlattenStrength: 1
+    - _AngleFading: 1
+    - _BendFlattenStrength: 0
     - _BendMode: 0
-    - _BendPushStrength: 1
+    - _BendPushStrength: 0
     - _Billboard: 0
     - _BillboardKwToggle: 0
     - _BillboardShadowFade: 0.5
     - _Blend: 0
-    - _BumpScale: 0
-    - _ColorMapHeight: 0.265
-    - _ColorMapStrength: 0.95
+    - _BlendOp: 0
+    - _BumpScale: 1
+    - _CameraFadingEnabled: 0
+    - _CameraFarFadeDistance: 2
+    - _CameraNearFadeDistance: 1
+    - _ColorMapHeight: 1
+    - _ColorMapStrength: 0
+    - _ColorMode: 0
     - _Cull: 0
     - _Cutoff: 0.5
-    - _Darkening: 0.487
-    - _DisableBending: 0
+    - _DisableBending: 1
     - _DisableDecals: 0
+    - _DistanceFadingOn: 0
+    - _DistortionBlend: 0.5
+    - _DistortionEnabled: 0
+    - _DistortionStrength: 1
+    - _DistortionStrengthScaled: 0.1
     - _DstBlend: 0
     - _EnvironmentReflections: 1
-    - _FadeAngleThreshold: 46
+    - _FadeAngleThreshold: 15
     - _FadingOn: 1
+    - _FlipbookBlending: 0
+    - _FlipbookMode: 0
     - _GlossMapScale: 0
     - _Glossiness: 0
+    - _GlossinessSource: 0
     - _GlossyReflections: 0
     - _Heightmap: 0
-    - _HueVariationHeight: 0.138
+    - _HueVariationHeight: 0
     - _HueVariationKwToggle: 0
-    - _LightingMode: 2
+    - _LightingMode: 1
     - _Metallic: 0
+    - _Mode: 0
     - _NormalFlattenDepthNormals: 0
-    - _NormalFlattening: 1
+    - _NormalFlattening: 0
     - _NormalMapKwToggle: 0
-    - _NormalSpherify: 0.833
-    - _NormalSpherifyMask: 1
-    - _OcclusionIndirectStrength: 0
-    - _OcclusionStrength: 0.522
-    - _OcclusionStrengthIndirect: 0
-    - _PerspectiveCorrection: 1
+    - _NormalSpherify: 0
+    - _NormalSpherifyDepthNormals: 0
+    - _NormalSpherifyMask: 0
+    - _OcclusionIndirectStrength: 0.25
+    - _OcclusionStrength: 0.696
+    - _PerspectiveCorrection: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
-    - _Scalemap: 1
+    - _Scalemap: 0
     - _ShadowBiasCorrection: 0
-    - _Smoothness: 0.061
+    - _Shininess: 0
+    - _Smoothness: 0
+    - _SmoothnessSource: 0
     - _SmoothnessTextureChannel: 0
+    - _SoftParticlesEnabled: 0
+    - _SoftParticlesFarFadeDistance: 1
+    - _SoftParticlesNearFadeDistance: 0
+    - _SpecSource: 0
     - _SpecularAmount: 0
     - _SpecularHighlights: 1
-    - _SpherifyNormals: 1
     - _SrcBlend: 1
     - _SubsurfaceIndirect: 0.25
     - _SubsurfaceKwToggle: 0
     - _Surface: 0
-    - _Translucency: 1
+    - _Translucency: 0.459
     - _TranslucencyDirect: 1
-    - _TranslucencyFalloff: 4
-    - _TranslucencyIndirect: 0.024
-    - _TranslucencyOffset: 0
-    - _TwoSided: 0
+    - _TranslucencyFalloff: 3.83
+    - _TranslucencyIndirect: 0.152
+    - _TranslucencyOffset: 1
+    - _TwoSided: 2
     - _VertexColorBendingChannel: 0
     - _VertexColorShadingChannel: 0
     - _VertexColorWindChannel: 0
-    - _VertexDarkening: 0.777
+    - _VertexDarkening: 0.627
     - _WindAmbientStrength: 0.115
-    - _WindFlutter: 0.559
-    - _WindGustFreq: 2.27
+    - _WindGustFreq: 2
     - _WindGustSpeed: 1
-    - _WindGustStrength: 0.127
-    - _WindGustTint: 0.27
-    - _WindObjectRand: 1
+    - _WindGustStrength: 0.3
+    - _WindGustTint: 0
+    - _WindObjectRand: 0
     - _WindQuality: 0
-    - _WindRandSpeed: 1
-    - _WindRandStrength: 0.709
-    - _WindSpeed: 2
-    - _WindStr: 0.067
-    - _WindStrength: 0.227
-    - _WindStrengths: 1
-    - _WindSwinging: 0.5
+    - _WindRandStrength: 0
+    - _WindSpeed: 1
+    - _WindSwinging: 1
     - _WindVertexRand: 1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - _BaseColor: {r: 0.03938234, g: 0.5566038, b: 0.08943598, a: 1}
+    - _BaseColor: {r: 0.88039315, g: 0.9528302, b: 0.62473303, a: 1}
+    - _BaseColorAddSubDiff: {r: 0, g: 0, b: 0, a: 0}
     - _BendTint: {r: 0.8, g: 0.8, b: 0.8, a: 1}
-    - _Color: {r: 1, g: 1, b: 1, a: 1}
-    - _EmissionColor: {r: 0.2600986, g: 0.6226415, b: 0.014684939, a: 0}
-    - _FadeFar: {r: 50, g: 100, b: 0, a: 0}
-    - _FadeNear: {r: 0.25, g: 0.5, b: 0, a: 0}
-    - _FadeParams: {r: 16.02564, g: 87.577354, b: 1, a: 0}
-    - _HeightmapScaleInfluence: {r: 0.5, g: 1, b: 0.5, a: 0}
-    - _HueVariation: {r: 1, g: 1, b: 0.3443396, a: 0.08627451}
+    - _CameraFadeParams: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _FadeFar: {r: 1000, g: 1000, b: 0, a: 0}
+    - _FadeNear: {r: 0, g: 0, b: 0, a: 0}
+    - _FadeParams: {r: 50, g: 100, b: 0, a: 0}
+    - _HeightmapScaleInfluence: {r: 0, g: 1, b: 0, a: 0}
+    - _HueVariation: {r: 0.9811321, g: 0.8000133, b: 0, a: 0}
     - _HueVariationColor: {r: 1, g: 0.5, b: 0, a: 0.1}
     - _LODDebugColor: {r: 1, g: 1, b: 1, a: 1}
-    - _NormalParams: {r: 1, g: 1, b: 0.949, a: 1}
+    - _NormalParams: {r: 0, g: 0, b: 0, a: 0}
     - _ScalemapInfluence: {r: 0, g: 1, b: 0, a: 0}
+    - _SoftParticleFadeParams: {r: 0, g: 0, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _SubsurfaceColor: {r: 1, g: 1, b: 1, a: 1}
-    - _WindDirection: {r: 1, g: 0, b: 1, a: 0}
-    - _WindSpeed: {r: 0, g: 0, b: 0, a: 0}
+    - _WindDirection: {r: 1, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
---- !u!114 &5473917896841254419
-MonoBehaviour:
-  m_ObjectHideFlags: 11
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d0353a89b1f911e48b9e16bdc9f2e058, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  version: 1
