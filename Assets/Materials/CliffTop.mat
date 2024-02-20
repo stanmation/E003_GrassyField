@@ -68,10 +68,10 @@ Material:
     - _QueueControl: 0
     - _QueueOffset: 0
     m_Colors:
-    - _Alpha_Offset: {r: -2.3, g: -0.39, b: 0, a: 0}
+    - _Alpha_Offset: {r: -2.3, g: -0.65, b: 0, a: 0}
     - _Alpha_Tiling: {r: 1, g: 1, b: 0, a: 0}
-    - _Blend_Offset: {r: 0, g: 0.73, b: 0, a: 0}
-    - _Blend_Tiling: {r: 1, g: 1, b: 0, a: 0}
+    - _Blend_Offset: {r: 0, g: 0.68, b: 0, a: 0}
+    - _Blend_Tiling: {r: 1, g: 0.7, b: 0, a: 0}
     - _Noise_Offset: {r: 0, g: 1.5, b: 0, a: 0}
     - _Noise_Tiling: {r: 1, g: 1, b: 0, a: 0}
   m_BuildTextureStacks: []
