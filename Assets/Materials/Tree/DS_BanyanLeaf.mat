@@ -25,7 +25,10 @@ Material:
   m_ValidKeywords:
   - _FADING
   - _SIMPLE_LIGHTING
-  m_InvalidKeywords: []
+  m_InvalidKeywords:
+  - _ALPHATOCOVERAGE_ON
+  - _ENVIRONMENTREFLECTIONS_ON
+  - _FADINGON_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 1
   m_DoubleSidedGI: 1
@@ -174,15 +177,15 @@ Material:
     - _VertexColorShadingChannel: 0
     - _VertexColorWindChannel: 0
     - _VertexDarkening: 0
-    - _WindAmbientStrength: 0.115
-    - _WindGustFreq: 2
+    - _WindAmbientStrength: 0.05
+    - _WindGustFreq: 3
     - _WindGustSpeed: 1
-    - _WindGustStrength: 0.3
+    - _WindGustStrength: 0.2
     - _WindGustTint: 0
     - _WindObjectRand: 0
     - _WindQuality: 0
     - _WindRandStrength: 0
-    - _WindSpeed: 1
+    - _WindSpeed: 0.5
     - _WindSwinging: 1
     - _WindVertexRand: 1
     - _WorkflowMode: 1
