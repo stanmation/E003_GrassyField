@@ -2,13 +2,15 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!21 &2100000
 Material:
-  serializedVersion: 6
+  serializedVersion: 8
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_Name: Birch Bark Array
   m_Shader: {fileID: 4800000, guid: 4b1ba39c33880439b95685788d2707e8, type: 3}
-  m_ShaderKeywords: _METALLICGLOSSMAP
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -38,15 +40,18 @@ Material:
         m_Texture: {fileID: 18700000, guid: abf4a8ae4c90e454bb88e41b0d71640c, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    m_Ints: []
     m_Floats:
     - <noninit>: 1
     - _Cutoff: 1
     - _DetailMode: 0
     - _DetailNormalMapScale: 1
     - _FadeOutWind: 0
+    - _IsBark: 1
     - _LODTerrain: 0
     - _SwapUVS: 0
     m_Colors:
     - <noninit>: {r: 1, g: 1, b: 1, a: 0.5}
     - _AverageCol: {r: 1, g: 1, b: 1, a: 0.5}
     - _HueVariation: {r: 0.9, g: 0.5, b: 0, a: 0.1}
+  m_BuildTextureStacks: []

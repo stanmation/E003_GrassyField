@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: M Jatoba Billboard URP
+  m_Name: DS Jatoba Billboard URP
   m_Shader: {fileID: -6465566751694194690, guid: 9687c08fa2bba864ba8950c7a039274c,
     type: 3}
   m_ValidKeywords: []
@@ -71,11 +71,11 @@ Material:
     - _TreeWidth: 1
     - _UseWind: 1
     - _ViewDependency: 0.8
-    - _WindStrength: 2
+    - _WindStrength: 0.5
     m_Colors:
-    - _HueVariation: {r: 0.9, g: 0.5, b: 0, a: 0.101960786}
+    - _HueVariation: {r: 0.69803923, g: 0.9019608, b: 0, a: 0.54509807}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _Translucency: {r: 2, g: 3, b: 0, a: 0}
+    - _Translucency: {r: 0.2, g: 0, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &3441647441553028161
 MonoBehaviour:
