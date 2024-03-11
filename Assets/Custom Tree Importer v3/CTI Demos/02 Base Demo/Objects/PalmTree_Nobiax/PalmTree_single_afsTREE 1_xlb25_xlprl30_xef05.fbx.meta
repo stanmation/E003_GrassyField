@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 4eda905256e9743b09b9922c82bac392
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: leaf_xp01
+    100004: leaf_xw15
+    100006: leafx_xp05
+    100008: Mesh
+    100010: 'Mesh '
+    100012: 'Mesh  '
+    100014: 'Mesh   '
+    100016: Mesh    1
+    100018: Mesh    2
+    100020: Mesh    3
+    100022: Mesh    4
+    100024: Mesh_xgt22xp03
+    100026: Mesh_xp02
+    100028: 'Mesh_xp02 '
+    100030: 'Mesh_xp02  '
+    100032: Mesh_xp03_xt07
+    100034: Mesh_xp03_xt15
+    100036: Mesh_xp04_xt20
+    100038: Mesh_xp08
+    100040: Mesh_xt06
+    100042: Mesh_xw07
+    100044: Mesh_xw15
+    100046: trunk01
+    400000: //RootNode
+    400002: leaf_xp01
+    400004: leaf_xw15
+    400006: leafx_xp05
+    400008: Mesh
+    400010: 'Mesh '
+    400012: 'Mesh  '
+    400014: 'Mesh   '
+    400016: Mesh    1
+    400018: Mesh    2
+    400020: Mesh    3
+    400022: Mesh    4
+    400024: Mesh_xgt22xp03
+    400026: Mesh_xp02
+    400028: 'Mesh_xp02 '
+    400030: 'Mesh_xp02  '
+    400032: Mesh_xp03_xt07
+    400034: Mesh_xp03_xt15
+    400036: Mesh_xp04_xt20
+    400038: Mesh_xp08
+    400040: Mesh_xt06
+    400042: Mesh_xw07
+    400044: Mesh_xw15
+    400046: trunk01
+    2300000: //RootNode
+    2300002: leaf_xp01
+    2300004: leaf_xw15
+    2300006: leafx_xp05
+    2300008: Mesh
+    2300010: 'Mesh '
+    2300012: 'Mesh  '
+    2300014: 'Mesh   '
+    2300016: Mesh    1
+    2300018: Mesh    2
+    2300020: Mesh    3
+    2300022: Mesh    4
+    2300024: Mesh_xgt22xp03
+    2300026: Mesh_xp02
+    2300028: 'Mesh_xp02 '
+    2300030: 'Mesh_xp02  '
+    2300032: Mesh_xp03_xt07
+    2300034: Mesh_xp03_xt15
+    2300036: Mesh_xp04_xt20
+    2300038: Mesh_xp08
+    2300040: Mesh_xt06
+    2300042: Mesh_xw07
+    2300044: Mesh_xw15
+    2300046: trunk01
+    3300000: //RootNode
+    3300002: leaf_xp01
+    3300004: leaf_xw15
+    3300006: leafx_xp05
+    3300008: Mesh
+    3300010: 'Mesh '
+    3300012: 'Mesh  '
+    3300014: 'Mesh   '
+    3300016: Mesh    1
+    3300018: Mesh    2
+    3300020: Mesh    3
+    3300022: Mesh    4
+    3300024: Mesh_xgt22xp03
+    3300026: Mesh_xp02
+    3300028: 'Mesh_xp02 '
+    3300030: 'Mesh_xp02  '
+    3300032: Mesh_xp03_xt07
+    3300034: Mesh_xp03_xt15
+    3300036: Mesh_xp04_xt20
+    3300038: Mesh_xp08
+    3300040: Mesh_xt06
+    3300042: Mesh_xw07
+    3300044: Mesh_xw15
+    3300046: trunk01
+    4300000: trunk01
+    4300002: Mesh
+    4300004: Mesh_xp03_xt07
+    4300006: Mesh_xp02
+    4300008: 'Mesh '
+    4300010: 'Mesh  '
+    4300012: 'Mesh  '
+    4300014: Mesh_xgt22xp03
+    4300016: 'Mesh  '
+    4300018: Mesh_xt06
+    4300020: 'Mesh  '
+    4300022: Mesh_xp08
+    4300024: 'Mesh_xp02 '
+    4300026: 'Mesh  '
+    4300028: Mesh_xp03_xt15
+    4300030: Mesh_xp04_xt20
+    4300032: 'Mesh  '
+    4300034: Mesh_xw15
+    4300036: Mesh_xw07
+    4300038: 'Mesh_xp02  '
+    4300040: leafx_xp05
+    4300042: leaf_xp01
+    4300044: leaf_xw15
+    4300046: 'Mesh   '
+    4300048: 'Mesh   '
+    4300050: 'Mesh   '
+    4300052: 'Mesh   '
+    4300054: 'Mesh   '
+    4300056: 'Mesh    '
+    4300058: 'Mesh    '
+    4300060: 'Mesh    '
+    4300062: 'Mesh    '
+    7400000: modo_Anim
+    9500000: //RootNode
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.05
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

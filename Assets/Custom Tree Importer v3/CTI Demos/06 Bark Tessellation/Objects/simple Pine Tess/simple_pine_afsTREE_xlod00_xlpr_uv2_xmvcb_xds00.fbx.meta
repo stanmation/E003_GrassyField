@@ -1,0 +1,199 @@
+fileFormatVersion: 2
+guid: e07caf621fed34fc1a787f4d8891d38b
+timeCreated: 1509824209
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: branch
+    100002: branch1_xp03_xw15_xt20
+    100004: branch1_xp06_xp01
+    100006: leave_plane
+    100008: leave_plane 1
+    100010: leave_plane1
+    100012: leave_plane1 1
+    100014: leave_plane1 2
+    100016: leave_plane2
+    100018: leave_plane2 1
+    100020: leave_plane2_xp007
+    100022: leave_plane3
+    100024: leave_plane3_xt08_xp01_xlp08
+    100026: leave_plane4
+    100028: //RootNode
+    100030: trunk
+    400000: branch
+    400002: branch1_xp03_xw15_xt20
+    400004: branch1_xp06_xp01
+    400006: leave_plane
+    400008: leave_plane 1
+    400010: leave_plane1
+    400012: leave_plane1 1
+    400014: leave_plane1 2
+    400016: leave_plane2
+    400018: leave_plane2 1
+    400020: leave_plane2_xp007
+    400022: leave_plane3
+    400024: leave_plane3_xt08_xp01_xlp08
+    400026: leave_plane4
+    400028: //RootNode
+    400030: trunk
+    2300000: branch
+    2300002: branch1_xp03_xw15_xt20
+    2300004: branch1_xp06_xp01
+    2300006: leave_plane
+    2300008: leave_plane 1
+    2300010: leave_plane1
+    2300012: leave_plane1 1
+    2300014: leave_plane1 2
+    2300016: leave_plane2
+    2300018: leave_plane2 1
+    2300020: leave_plane2_xp007
+    2300022: leave_plane3
+    2300024: leave_plane3_xt08_xp01_xlp08
+    2300026: leave_plane4
+    2300028: trunk
+    2300030: //RootNode
+    3300000: branch
+    3300002: branch1_xp03_xw15_xt20
+    3300004: branch1_xp06_xp01
+    3300006: leave_plane
+    3300008: leave_plane 1
+    3300010: leave_plane1
+    3300012: leave_plane1 1
+    3300014: leave_plane1 2
+    3300016: leave_plane2
+    3300018: leave_plane2 1
+    3300020: leave_plane2_xp007
+    3300022: leave_plane3
+    3300024: leave_plane3_xt08_xp01_xlp08
+    3300026: leave_plane4
+    3300028: trunk
+    3300030: //RootNode
+    4300000: trunk
+    4300002: branch
+    4300004: leave_plane
+    4300006: leave_plane1
+    4300008: leave_plane2
+    4300010: branch1_xp03_xw15_xt20
+    4300012: leave_plane
+    4300014: leave_plane1
+    4300016: leave_plane2_xp007
+    4300018: leave_plane3_xt08_xp01_xlp08
+    4300020: branch1_xp06_xp01
+    4300022: leave_plane1
+    4300024: leave_plane2
+    4300026: leave_plane3
+    4300028: leave_plane4
+    4300030: branch1_xp06_xp01_xsn00
+    4300032: branch1_xp06_xp01_xsn10
+    4300034: branch1_xp06_xp01_xsn10_xds05
+    4300036: branch1_xp06_xp01_xsn10_xds02
+    4300038: branch1_xp06_xp01_xsn10_xds00
+    4300040: branch_xds05
+    4300042: branch1_xp03_xw15_xt20_xds05
+    4300044: branch_xds02
+    4300046: branch1_xp03_xw15_xt20_xds02
+    4300048: branch_xds00
+    4300050: branch1_xp03_xw15_xt20_xds00
+    4300052: branch1_xp06_xp01_xsn10_xds00_xdp10
+    4300054: branch1_xp06_xp01_xsn10_xds00_xdp05
+    4300056: branch1_xp06_xp01_xsn10_xds00_xdp07
+    4300058: branch1_xp06_xp01_xsn10_xds00_xdp08
+    4300060: branch1_xp06_xp01_xsn10_xds00_xdp09
+    4300062: trunk_xds10
+    4300064: leave_plane2_xlod10
+    4300066: leave_plane4_xlod10
+    4300068: leave_plane2_xlod01
+    4300070: leave_plane4_xlod01
+    4300072: leave_planex
+    4300074: leave_plane1x
+    4300076: leave_plane2_xlod01x
+    4300078: leave_planex
+    4300080: leave_plane1x
+    4300082: leave_plane2_xp007x
+    4300084: leave_plane3_xt08_xp01_xlp08x
+    4300086: leave_planey
+    4300088: leave_plane1y
+    4300090: leave_plane2_xp007y
+    4300092: leave_plane3_xt08_xp01_xlp08y
+    4300094: leave_plane_wrong
+    4300096: leave_plane_wrong
+    4300098: leave_plane_wrong1
+    4300100: leave_plane_wrongxxxx
+    4300102: leave_plane3_wrong
+    4300104: leave_plane_wrongb
+    4300106: leave_plane3_wronga
+    4300108: leave_plane_wrong
+    4300110: leave_plane_wrongx
+    4300112: lexave_plane2_xlod01
+    4300114: leave_plane2_xlod01
+    4300116: branch1_xp06_xp01_xsn10_xds10_xdp09
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

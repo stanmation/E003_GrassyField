@@ -1,0 +1,1 @@
+In case you want to sell your trees or foliage created using CTI on the asset store you may add the logos provided in the .PNG to your artwork.

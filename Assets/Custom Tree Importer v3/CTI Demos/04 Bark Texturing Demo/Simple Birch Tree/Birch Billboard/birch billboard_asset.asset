@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!226 &22600000
+BillboardAsset:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: birch billboard_asset
+  serializedVersion: 2
+  width: 15.046152
+  bottom: -0.48222718
+  height: 14.0592
+  imageTexCoords:
+  - {x: 0, y: 0, z: 0.25, w: 0.5}
+  vertices:
+  - {x: 0, y: 0}
+  - {x: 0.0333, y: 0.386}
+  - {x: 0.4374, y: 0.654}
+  - {x: 1, y: 0}
+  - {x: 0.9667, y: 0.386}
+  - {x: 0.5626, y: 0.654}
+  indices: 000003000400000004000100010004000500010005000200
+  material: {fileID: 2100000, guid: fc4faeffc141849a5a90575903d7c03a, type: 2}

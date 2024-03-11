@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: f7af2048ef1f445819b9f61c9c59eafe
+timeCreated: 1509697111
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: branch
+    100004: branch1_xp03_xw15_xt20
+    100006: branch1_xp06_xp01
+    100008: leave_plane
+    100010: leave_plane 1
+    100012: leave_plane1
+    100014: leave_plane1 1
+    100016: leave_plane1 2
+    100018: leave_plane2
+    100020: leave_plane2 1
+    100022: leave_plane2_xp007
+    100024: leave_plane3
+    100026: leave_plane3_xt08_xp01_xlp08
+    100028: leave_plane4
+    100030: trunk
+    400000: //RootNode
+    400002: branch
+    400004: branch1_xp03_xw15_xt20
+    400006: branch1_xp06_xp01
+    400008: leave_plane
+    400010: leave_plane 1
+    400012: leave_plane1
+    400014: leave_plane1 1
+    400016: leave_plane1 2
+    400018: leave_plane2
+    400020: leave_plane2 1
+    400022: leave_plane2_xp007
+    400024: leave_plane3
+    400026: leave_plane3_xt08_xp01_xlp08
+    400028: leave_plane4
+    400030: trunk
+    2300000: //RootNode
+    2300002: branch
+    2300004: branch1_xp03_xw15_xt20
+    2300006: branch1_xp06_xp01
+    2300008: leave_plane
+    2300010: leave_plane 1
+    2300012: leave_plane1
+    2300014: leave_plane1 1
+    2300016: leave_plane1 2
+    2300018: leave_plane2
+    2300020: leave_plane2 1
+    2300022: leave_plane2_xp007
+    2300024: leave_plane3
+    2300026: leave_plane3_xt08_xp01_xlp08
+    2300028: leave_plane4
+    2300030: trunk
+    3300000: //RootNode
+    3300002: branch
+    3300004: branch1_xp03_xw15_xt20
+    3300006: branch1_xp06_xp01
+    3300008: leave_plane
+    3300010: leave_plane 1
+    3300012: leave_plane1
+    3300014: leave_plane1 1
+    3300016: leave_plane1 2
+    3300018: leave_plane2
+    3300020: leave_plane2 1
+    3300022: leave_plane2_xp007
+    3300024: leave_plane3
+    3300026: leave_plane3_xt08_xp01_xlp08
+    3300028: leave_plane4
+    3300030: trunk
+    4300000: trunk
+    4300002: branch
+    4300004: leave_plane
+    4300006: leave_plane1
+    4300008: leave_plane2
+    4300010: branch1_xp03_xw15_xt20
+    4300012: leave_plane
+    4300014: leave_plane1
+    4300016: leave_plane2_xp007
+    4300018: leave_plane3_xt08_xp01_xlp08
+    4300020: branch1_xp06_xp01
+    4300022: leave_plane1
+    4300024: leave_plane2
+    4300026: leave_plane3
+    4300028: leave_plane4
+    4300030: trunk1
+    4300032: leave_plane5
+    4300034: leave_plane6
+    4300036: leave_plane8
+    4300038: leave_plane7
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

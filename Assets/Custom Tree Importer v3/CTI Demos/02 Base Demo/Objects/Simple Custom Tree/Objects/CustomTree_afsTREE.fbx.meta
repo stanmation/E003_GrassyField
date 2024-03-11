@@ -1,0 +1,523 @@
+fileFormatVersion: 2
+guid: eae2045d428734f0eadc9f92ad636161
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Branch01_01
+    100002: Branch02_01
+    100004: Branch02_04x
+    100006: //RootNode
+    100008: pasted__Branch02_01
+    100010: pasted__Branch02_02
+    100012: pasted__Branch02_02 1
+    100014: pasted__pasted__Branch02_02
+    100016: Trunk
+    100018: Branch02_02
+    100020: LeafPlane
+    100022: pasted__Branch02_02 2
+    100024: pasted__LeafPlane
+    100026: Branch02_02 1
+    100028: Branch02_05
+    100030: Branch02_06
+    100032: LeafPlane1
+    100034: pasted__pasted__LeafPlane
+    100036: Branch02_01_xph05
+    100038: Branch02_05_xph10
+    100040: Branch02_05_xph01
+    100042: Branch01_01_xph08
+    100044: Branch01_01_xph08_xw05
+    100046: Branch01_01_xph08_xw05_xt02
+    100048: Branch01_01_xph08_xw05_xt01
+    100050: Branch01_01_xph08_xw05_xt03
+    100052: Branch01_01_xph08_xt03
+    100054: pasted__Branch02_02_xt05
+    100056: pasted__Branch02_02_xt02
+    100058: Branch02_04_xt02
+    100060: Trunk_xw05
+    100062: Branch01_01_xph08_xw06
+    100064: Branch02_01_xph05_xp05
+    100066: pasted__Branch02_02_xp06
+    100068: pasted__Branch02_02_xp00
+    100070: Branch02_01_xph05_xt05
+    100072: pasted__Branch02_02_xt00
+    100074: pasted__Branch02_02_xt02 1
+    100076: Branch02_01_xph05_xt10
+    100078: problemkind
+    100080: problemvater_xt02
+    100082: pasted__problemkind
+    100084: Branch02_02_xt05
+    100086: Branch02_01_xph05_xt02
+    100088: Branch02_02_xt20
+    100090: Branch02_01_xph05_xt06
+    100092: Branch02_02_xt08
+    100094: pasted__Branch02_04_xt02
+    100096: pasted__Branch02_04_xx02
+    100098: problemvater_xx02
+    100100: Branch02_01_xph05_xx06
+    100102: Trunk_xx05
+    100104: Branch02_02_xx08
+    100106: pasted__Branch02_02_xx02
+    100108: Branch01_01_xph08_xx06
+    100110: Branch02_01_xph05_xw06
+    100112: Branch02_01_xph05_xw02
+    100114: Branch01_01_xp08_xx06
+    100116: Branch02_01_xp03_xw02
+    100118: Branch02_05_xp02
+    100120: Branch01_01_xp08_xw06
+    100122: Branch02_01_xp01_xw02
+    100124: Branch02_01_xp00_xw02
+    100126: Branch01_01_xp10_xw06
+    100128: Branch01_01_xp10_xw08
+    100130: Branch02_01_xp01_xw04
+    100132: Branch02_05_xp02_xw09
+    100134: Trunk_xw06
+    100136: pasted__LeafPlane1
+    100138: pasted__LeafPlane_xt20
+    100140: pasted__LeafPlane_xt80
+    100142: Branch
+    100144: Branch 1
+    100146: Branch 2
+    100148: Branch1
+    100150: Branch_xp01_xw04
+    100152: Branch_xp02_xw09
+    100154: Branch_xt05
+    100156: Branch_xt10
+    100158: LeafPlane 1
+    100160: LeafPlane 2
+    100162: LeafPlane1_xt15_xw14
+    100164: LeafPlane2
+    100166: Trunk_xw07
+    100168: 'Branch '
+    100170: 'Branch  '
+    100172: 'LeafPlane '
+    100174: 'LeafPlane  '
+    400000: Branch01_01
+    400002: Branch02_01
+    400004: Branch02_04x
+    400006: //RootNode
+    400008: pasted__Branch02_01
+    400010: pasted__Branch02_02
+    400012: pasted__Branch02_02 1
+    400014: pasted__pasted__Branch02_02
+    400016: Trunk
+    400018: Branch02_02
+    400020: LeafPlane
+    400022: pasted__Branch02_02 2
+    400024: pasted__LeafPlane
+    400026: Branch02_02 1
+    400028: Branch02_05
+    400030: Branch02_06
+    400032: LeafPlane1
+    400034: pasted__pasted__LeafPlane
+    400036: Branch02_01_xph05
+    400038: Branch02_05_xph10
+    400040: Branch02_05_xph01
+    400042: Branch01_01_xph08
+    400044: Branch01_01_xph08_xw05
+    400046: Branch01_01_xph08_xw05_xt02
+    400048: Branch01_01_xph08_xw05_xt01
+    400050: Branch01_01_xph08_xw05_xt03
+    400052: Branch01_01_xph08_xt03
+    400054: pasted__Branch02_02_xt05
+    400056: pasted__Branch02_02_xt02
+    400058: Branch02_04_xt02
+    400060: Trunk_xw05
+    400062: Branch01_01_xph08_xw06
+    400064: Branch02_01_xph05_xp05
+    400066: pasted__Branch02_02_xp06
+    400068: pasted__Branch02_02_xp00
+    400070: Branch02_01_xph05_xt05
+    400072: pasted__Branch02_02_xt00
+    400074: pasted__Branch02_02_xt02 1
+    400076: Branch02_01_xph05_xt10
+    400078: problemkind
+    400080: problemvater_xt02
+    400082: pasted__problemkind
+    400084: Branch02_02_xt05
+    400086: Branch02_01_xph05_xt02
+    400088: Branch02_02_xt20
+    400090: Branch02_01_xph05_xt06
+    400092: Branch02_02_xt08
+    400094: pasted__Branch02_04_xt02
+    400096: pasted__Branch02_04_xx02
+    400098: problemvater_xx02
+    400100: Branch02_01_xph05_xx06
+    400102: Trunk_xx05
+    400104: Branch02_02_xx08
+    400106: pasted__Branch02_02_xx02
+    400108: Branch01_01_xph08_xx06
+    400110: Branch02_01_xph05_xw06
+    400112: Branch02_01_xph05_xw02
+    400114: Branch01_01_xp08_xx06
+    400116: Branch02_01_xp03_xw02
+    400118: Branch02_05_xp02
+    400120: Branch01_01_xp08_xw06
+    400122: Branch02_01_xp01_xw02
+    400124: Branch02_01_xp00_xw02
+    400126: Branch01_01_xp10_xw06
+    400128: Branch01_01_xp10_xw08
+    400130: Branch02_01_xp01_xw04
+    400132: Branch02_05_xp02_xw09
+    400134: Trunk_xw06
+    400136: pasted__LeafPlane1
+    400138: pasted__LeafPlane_xt20
+    400140: pasted__LeafPlane_xt80
+    400142: Branch
+    400144: Branch 1
+    400146: Branch 2
+    400148: Branch1
+    400150: Branch_xp01_xw04
+    400152: Branch_xp02_xw09
+    400154: Branch_xt05
+    400156: Branch_xt10
+    400158: LeafPlane 1
+    400160: LeafPlane 2
+    400162: LeafPlane1_xt15_xw14
+    400164: LeafPlane2
+    400166: Trunk_xw07
+    400168: 'Branch '
+    400170: 'Branch  '
+    400172: 'LeafPlane '
+    400174: 'LeafPlane  '
+    2300000: Branch01_01
+    2300002: Branch02_01
+    2300004: Branch02_04x
+    2300006: //RootNode
+    2300008: pasted__Branch02_01
+    2300010: pasted__Branch02_02
+    2300012: pasted__Branch02_02 1
+    2300014: pasted__pasted__Branch02_02
+    2300016: Trunk
+    2300018: Branch02_02
+    2300020: LeafPlane
+    2300022: pasted__Branch02_02 2
+    2300024: pasted__LeafPlane
+    2300026: Branch02_02 1
+    2300028: Branch02_05
+    2300030: Branch02_06
+    2300032: LeafPlane1
+    2300034: pasted__pasted__LeafPlane
+    2300036: Branch02_01_xph05
+    2300038: Branch02_05_xph10
+    2300040: Branch02_05_xph01
+    2300042: Branch01_01_xph08
+    2300044: Branch01_01_xph08_xw05
+    2300046: Branch01_01_xph08_xw05_xt02
+    2300048: Branch01_01_xph08_xw05_xt01
+    2300050: Branch01_01_xph08_xw05_xt03
+    2300052: Branch01_01_xph08_xt03
+    2300054: pasted__Branch02_02_xt05
+    2300056: pasted__Branch02_02_xt02
+    2300058: Branch02_04_xt02
+    2300060: Trunk_xw05
+    2300062: Branch01_01_xph08_xw06
+    2300064: Branch02_01_xph05_xp05
+    2300066: pasted__Branch02_02_xp06
+    2300068: pasted__Branch02_02_xp00
+    2300070: Branch02_01_xph05_xt05
+    2300072: pasted__Branch02_02_xt00
+    2300074: pasted__Branch02_02_xt02 1
+    2300076: Branch02_01_xph05_xt10
+    2300078: problemkind
+    2300080: problemvater_xt02
+    2300082: pasted__problemkind
+    2300084: Branch02_02_xt05
+    2300086: Branch02_01_xph05_xt02
+    2300088: Branch02_02_xt20
+    2300090: Branch02_01_xph05_xt06
+    2300092: Branch02_02_xt08
+    2300094: pasted__Branch02_04_xt02
+    2300096: pasted__Branch02_04_xx02
+    2300098: problemvater_xx02
+    2300100: Branch02_01_xph05_xx06
+    2300102: Trunk_xx05
+    2300104: Branch02_02_xx08
+    2300106: pasted__Branch02_02_xx02
+    2300108: Branch01_01_xph08_xx06
+    2300110: Branch02_01_xph05_xw06
+    2300112: Branch02_01_xph05_xw02
+    2300114: Branch01_01_xp08_xx06
+    2300116: Branch02_01_xp03_xw02
+    2300118: Branch02_05_xp02
+    2300120: Branch01_01_xp08_xw06
+    2300122: Branch02_01_xp01_xw02
+    2300124: Branch02_01_xp00_xw02
+    2300126: Branch01_01_xp10_xw06
+    2300128: Branch01_01_xp10_xw08
+    2300130: Branch02_01_xp01_xw04
+    2300132: Branch02_05_xp02_xw09
+    2300134: Trunk_xw06
+    2300136: pasted__LeafPlane1
+    2300138: pasted__LeafPlane_xt20
+    2300140: pasted__LeafPlane_xt80
+    2300142: Branch
+    2300144: Branch 1
+    2300146: Branch 2
+    2300148: Branch1
+    2300150: Branch_xp01_xw04
+    2300152: Branch_xp02_xw09
+    2300154: Branch_xt05
+    2300156: Branch_xt10
+    2300158: LeafPlane 1
+    2300160: LeafPlane 2
+    2300162: LeafPlane1_xt15_xw14
+    2300164: LeafPlane2
+    2300166: Trunk_xw07
+    2300168: 'Branch '
+    2300170: 'Branch  '
+    2300172: 'LeafPlane '
+    2300174: 'LeafPlane  '
+    3300000: Branch01_01
+    3300002: Branch02_01
+    3300004: Branch02_04x
+    3300006: //RootNode
+    3300008: pasted__Branch02_01
+    3300010: pasted__Branch02_02
+    3300012: pasted__Branch02_02 1
+    3300014: pasted__pasted__Branch02_02
+    3300016: Trunk
+    3300018: Branch02_02
+    3300020: LeafPlane
+    3300022: pasted__Branch02_02 2
+    3300024: pasted__LeafPlane
+    3300026: Branch02_02 1
+    3300028: Branch02_05
+    3300030: Branch02_06
+    3300032: LeafPlane1
+    3300034: pasted__pasted__LeafPlane
+    3300036: Branch02_01_xph05
+    3300038: Branch02_05_xph10
+    3300040: Branch02_05_xph01
+    3300042: Branch01_01_xph08
+    3300044: Branch01_01_xph08_xw05
+    3300046: Branch01_01_xph08_xw05_xt02
+    3300048: Branch01_01_xph08_xw05_xt01
+    3300050: Branch01_01_xph08_xw05_xt03
+    3300052: Branch01_01_xph08_xt03
+    3300054: pasted__Branch02_02_xt05
+    3300056: pasted__Branch02_02_xt02
+    3300058: Branch02_04_xt02
+    3300060: Trunk_xw05
+    3300062: Branch01_01_xph08_xw06
+    3300064: Branch02_01_xph05_xp05
+    3300066: pasted__Branch02_02_xp06
+    3300068: pasted__Branch02_02_xp00
+    3300070: Branch02_01_xph05_xt05
+    3300072: pasted__Branch02_02_xt00
+    3300074: pasted__Branch02_02_xt02 1
+    3300076: Branch02_01_xph05_xt10
+    3300078: problemkind
+    3300080: problemvater_xt02
+    3300082: pasted__problemkind
+    3300084: Branch02_02_xt05
+    3300086: Branch02_01_xph05_xt02
+    3300088: Branch02_02_xt20
+    3300090: Branch02_01_xph05_xt06
+    3300092: Branch02_02_xt08
+    3300094: pasted__Branch02_04_xt02
+    3300096: pasted__Branch02_04_xx02
+    3300098: problemvater_xx02
+    3300100: Branch02_01_xph05_xx06
+    3300102: Trunk_xx05
+    3300104: Branch02_02_xx08
+    3300106: pasted__Branch02_02_xx02
+    3300108: Branch01_01_xph08_xx06
+    3300110: Branch02_01_xph05_xw06
+    3300112: Branch02_01_xph05_xw02
+    3300114: Branch01_01_xp08_xx06
+    3300116: Branch02_01_xp03_xw02
+    3300118: Branch02_05_xp02
+    3300120: Branch01_01_xp08_xw06
+    3300122: Branch02_01_xp01_xw02
+    3300124: Branch02_01_xp00_xw02
+    3300126: Branch01_01_xp10_xw06
+    3300128: Branch01_01_xp10_xw08
+    3300130: Branch02_01_xp01_xw04
+    3300132: Branch02_05_xp02_xw09
+    3300134: Trunk_xw06
+    3300136: pasted__LeafPlane1
+    3300138: pasted__LeafPlane_xt20
+    3300140: pasted__LeafPlane_xt80
+    3300142: Branch
+    3300144: Branch 1
+    3300146: Branch 2
+    3300148: Branch1
+    3300150: Branch_xp01_xw04
+    3300152: Branch_xp02_xw09
+    3300154: Branch_xt05
+    3300156: Branch_xt10
+    3300158: LeafPlane 1
+    3300160: LeafPlane 2
+    3300162: LeafPlane1_xt15_xw14
+    3300164: LeafPlane2
+    3300166: Trunk_xw07
+    3300168: 'Branch '
+    3300170: 'Branch  '
+    3300172: 'LeafPlane '
+    3300174: 'LeafPlane  '
+    4300000: Trunk
+    4300002: Branch01_01
+    4300004: pasted__Branch02_02
+    4300006: Branch02_04x
+    4300008: Branch02_01
+    4300010: pasted__Branch02_01
+    4300012: pasted__Branch02_02
+    4300014: pasted__pasted__Branch02_02
+    4300016: Branch02_02
+    4300018: LeafPlane
+    4300020: pasted__Branch02_02
+    4300022: pasted__LeafPlane
+    4300024: LeafPlane1
+    4300026: Branch02_05
+    4300028: Branch02_02
+    4300030: Branch02_06
+    4300032: pasted__pasted__LeafPlane
+    4300034: Branch02_01_xph05
+    4300036: Branch02_05_xph10
+    4300038: Branch02_05_xph01
+    4300040: Branch01_01_xph08
+    4300042: Branch01_01_xph08_xw05
+    4300044: Branch01_01_xph08_xw05_xt02
+    4300046: Branch01_01_xph08_xw05_xt01
+    4300048: Branch01_01_xph08_xw05_xt03
+    4300050: Branch01_01_xph08_xt03
+    4300052: pasted__Branch02_02_xt05
+    4300054: pasted__Branch02_02_xt02
+    4300056: Branch02_04_xt02
+    4300058: Trunk_xw05
+    4300060: Branch01_01_xph08_xw06
+    4300062: Branch02_01_xph05_xp05
+    4300064: pasted__Branch02_02_xp06
+    4300066: pasted__Branch02_02_xp00
+    4300068: Branch02_01_xph05_xt05
+    4300070: pasted__Branch02_02_xt00
+    4300072: pasted__Branch02_02_xt02
+    4300074: Branch02_01_xph05_xt10
+    4300076: problemvater_xt02
+    4300078: problemkind
+    4300080: pasted__problemkind
+    4300082: Branch02_02_xt05
+    4300084: Branch02_01_xph05_xt02
+    4300086: Branch02_02_xt20
+    4300088: Branch02_01_xph05_xt06
+    4300090: Branch02_02_xt08
+    4300092: pasted__Branch02_04_xt02
+    4300094: problemvater_xx02
+    4300096: pasted__Branch02_04_xx02
+    4300098: Branch02_01_xph05_xx06
+    4300100: Trunk_xx05
+    4300102: pasted__Branch02_02_xx02
+    4300104: Branch02_02_xx08
+    4300106: Branch01_01_xph08_xx06
+    4300108: Branch02_01_xph05_xw06
+    4300110: Branch02_01_xph05_xw02
+    4300112: Branch01_01_xp08_xx06
+    4300114: Branch02_01_xp03_xw02
+    4300116: Branch02_05_xp02
+    4300118: Branch01_01_xp08_xw06
+    4300120: Branch02_01_xp01_xw02
+    4300122: Branch02_01_xp00_xw02
+    4300124: Branch01_01_xp10_xw06
+    4300126: Trunk_xw06
+    4300128: Branch01_01_xp10_xw08
+    4300130: Branch02_01_xp01_xw04
+    4300132: Branch02_05_xp02_xw09
+    4300134: pasted__LeafPlane1
+    4300136: pasted__LeafPlane_xt20
+    4300138: pasted__LeafPlane_xt80
+    4300140: Trunk_xw04
+    4300142: pasted__pasted__LeafPlane1
+    4300144: pasted__pasted__LeafPlane2
+    4300146: problemvater_xt10
+    4300148: LeafPlane1_xt15
+    4300150: LeafPlane1_xt15_xw14
+    4300152: Trunk_xw10
+    4300154: Trunk_xw07
+    4300156: Branch
+    4300158: LeafPlane2
+    4300160: Branch_xp01_xw04
+    4300162: Branch_xt05
+    4300164: Branch
+    4300166: Branch_xt10
+    4300168: Branch
+    4300170: Branch1
+    4300172: LeafPlane
+    4300174: Branch_xp02_xw09
+    4300176: LeafPlane
+    4300178: 'LeafPlane '
+    4300180: 'Branch '
+    4300182: 'Branch '
+    4300184: 'LeafPlane '
+    4300186: 'Branch  '
+    4300188: 'LeafPlane  '
+    7400000: Take 001
+    9500000: //RootNode
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 105
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

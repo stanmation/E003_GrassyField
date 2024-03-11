@@ -1,0 +1,180 @@
+fileFormatVersion: 2
+guid: dbb7f94a4543348a99c3a26e246a520a
+timeCreated: 1510582803
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: blossom2_xlp00_xlod01
+    100004: blossom8_xlp00
+    100006: pasted__pasted__Plane_5_14_xlod01
+    100008: pasted__Plane_5_11_xlod01
+    100010: pasted__Plane_5_12_xlod01
+    100012: pasted__Plane_5_13_xlod01
+    100014: pasted__Plane_5_14_xlod01
+    100016: pasted__Plane_5_25
+    100018: pasted__Plane_5_26_xlod01
+    100020: pasted__Plane_5_27
+    100022: pasted__twig_01_xp08_xt04_xlod01
+    100024: Plane_5_23
+    100026: Plane_5_24_xt13
+    100028: Plane_5_25
+    100030: polySurface2_xp02
+    100032: stem
+    100034: twig_01_1_3_xp08
+    100036: twig_02_1_2_xw05_xt07_xp06_xlod01
+    400000: //RootNode
+    400002: blossom2_xlp00_xlod01
+    400004: blossom8_xlp00
+    400006: pasted__pasted__Plane_5_14_xlod01
+    400008: pasted__Plane_5_11_xlod01
+    400010: pasted__Plane_5_12_xlod01
+    400012: pasted__Plane_5_13_xlod01
+    400014: pasted__Plane_5_14_xlod01
+    400016: pasted__Plane_5_25
+    400018: pasted__Plane_5_26_xlod01
+    400020: pasted__Plane_5_27
+    400022: pasted__twig_01_xp08_xt04_xlod01
+    400024: Plane_5_23
+    400026: Plane_5_24_xt13
+    400028: Plane_5_25
+    400030: polySurface2_xp02
+    400032: stem
+    400034: twig_01_1_3_xp08
+    400036: twig_02_1_2_xw05_xt07_xp06_xlod01
+    2300000: blossom2_xlp00_xlod01
+    2300002: blossom8_xlp00
+    2300004: pasted__pasted__Plane_5_14_xlod01
+    2300006: pasted__Plane_5_11_xlod01
+    2300008: pasted__Plane_5_12_xlod01
+    2300010: pasted__Plane_5_13_xlod01
+    2300012: pasted__Plane_5_14_xlod01
+    2300014: pasted__Plane_5_25
+    2300016: pasted__Plane_5_26_xlod01
+    2300018: pasted__Plane_5_27
+    2300020: pasted__twig_01_xp08_xt04_xlod01
+    2300022: Plane_5_23
+    2300024: Plane_5_24_xt13
+    2300026: Plane_5_25
+    2300028: polySurface2_xp02
+    2300030: stem
+    2300032: twig_01_1_3_xp08
+    2300034: twig_02_1_2_xw05_xt07_xp06_xlod01
+    2300036: //RootNode
+    3300000: blossom2_xlp00_xlod01
+    3300002: blossom8_xlp00
+    3300004: pasted__pasted__Plane_5_14_xlod01
+    3300006: pasted__Plane_5_11_xlod01
+    3300008: pasted__Plane_5_12_xlod01
+    3300010: pasted__Plane_5_13_xlod01
+    3300012: pasted__Plane_5_14_xlod01
+    3300014: pasted__Plane_5_25
+    3300016: pasted__Plane_5_26_xlod01
+    3300018: pasted__Plane_5_27
+    3300020: pasted__twig_01_xp08_xt04_xlod01
+    3300022: Plane_5_23
+    3300024: Plane_5_24_xt13
+    3300026: Plane_5_25
+    3300028: polySurface2_xp02
+    3300030: stem
+    3300032: twig_01_1_3_xp08
+    3300034: twig_02_1_2_xw05_xt07_xp06_xlod01
+    3300036: //RootNode
+    4300000: stem
+    4300002: twig_02_1_2_xw05_xt07_xp06_xlod01
+    4300004: Plane_5_23
+    4300006: Plane_5_24_xt13
+    4300008: twig_01_1_3_xp08
+    4300010: Plane_5_25
+    4300012: pasted__Plane_5_25
+    4300014: pasted__Plane_5_27
+    4300016: blossom8_xlp00
+    4300018: pasted__twig_01_xp08_xt04_xlod01
+    4300020: pasted__Plane_5_11_xlod01
+    4300022: pasted__Plane_5_12_xlod01
+    4300024: pasted__Plane_5_13_xlod01
+    4300026: pasted__Plane_5_14_xlod01
+    4300028: pasted__pasted__Plane_5_14_xlod01
+    4300030: pasted__Plane_5_26_xlod01
+    4300032: blossom2_xlp00_xlod01
+    4300034: polySurface2_xp02
+    4300036: twig_02_1_2_xw05_xt07_xp06_xlod02
+    4300038: Plane_5_23_xlod01
+    4300040: Plane_5_24_xt13_xlod01
+    4300042: pasted__Plane_5_12_xp02_xt12_xlod01
+    4300044: pasted__twig_01_xp08_xt20_xlod01
+    4300046: polySurface2_xp02_xt18
+    4300048: polySurface2_xp02_xt18_xlod01
+    4300050: pasted__twig_01_xp08_xt13_xlod01
+    4300052: blossom2_xlod01
+    4300054: polySurface2_xp02_xt11_xlod01
+    19300000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
